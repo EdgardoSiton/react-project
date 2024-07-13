@@ -14,11 +14,11 @@ function App() {
         companies. React can be used to develop single-page, mobile, or
         server-rendered applications with frameworks like Next.js.
       </h3>
-      <h3>1. Edgardo A.Siton</h3>
-      <h3>2. SweetVenice T. Casia</h3>
-      <h3>
-        Note: Make sure to change the Web App Name that appears in browser tab
-      </h3>
+      <ul class="demo">
+        Members Name:
+        <li>1. Siton, Edgardo A.</li>
+        <li>2. Casia, Sweet Venice T.</li>
+      </ul>
     </div>
   );
 }
